@@ -1,0 +1,42 @@
+ConnectaTel – Análisis de datos
+
+Objetivo del proyecto
+
+  Analizar los datos de ConnectaTel para identificar patrones de comportamiento de los usuarios, comprender sus hábitos de consumo y generar recomendaciones que ayuden a mejorar los planes y servicios de la empresa.
+
+Conjuntos de datos
+
+El proyecto utiliza tres archivos principales:
+
+  users.csv: información de los usuarios.
+  plans.csv: información de los planes disponibles.
+  usage.csv: registros de uso de los servicios.
+
+Etapas del análisis
+
+  Exploración inicial de los datos.
+  Limpieza y preparación de los conjuntos de datos.
+  Análisis exploratorio y estadístico.
+  Identificación de valores atípicos.
+  Segmentación de usuarios según edad y nivel de uso.
+  Visualización de resultados.
+  Análisis de hallazgos y recomendaciones de negocio.
+
+Herramientas utilizadas
+
+  Python
+  Pandas
+  NumPy
+  Matplotlib
+  Seaborn
+  Jupyter Notebook / Google Colab
+
+Cómo ejecutar el proyecto
+
+1.Descarga el notebook .ipynb del repositorio.
+2.Ábrelo en Google Colab.
+3.Carga los archivos de datos necesarios.
+4.Ejecuta las celdas en orden para reproducir el análisis.
+
+Autor:
+Andrés Vega
